@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 😎 About Me:
 <p>💻 studying Information Technology at the Technological Institute of the Philippines </p>
 <p>👨‍💻 A passionate front-end developer</p>
 
