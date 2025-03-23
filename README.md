@@ -1,6 +1,6 @@
 # 💫 About Me:
-💻 studying Information Technology at the Technological Institute of the Philippines
-👨‍💻 A passionate front-end developer 
+<p>💻 studying Information Technology at the Technological Institute of the Philippines </p>
+<p>👨‍💻 A passionate front-end developer</p>
 
 
 ## 🌐 Socials:
